@@ -1,0 +1,62 @@
+.container{
+    
+    padding-bottom: 25px;
+    margin: 60px auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.main-container{
+    background: url("https://cdn.jsdelivr.net/gh/Neat-Coder23/resources/image.png");
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+     background-size: cover;
+    left: 0;
+}
+
+
+.search-bar{
+ position: relative;
+    margin-left:-130px;
+padding-left:30px;
+ margin-bottom:20px;
+ padding-left: 10px;
+ overflow: hidden;
+ 
+}
+.col{
+    padding-right: 200px;
+}
+.col-yeah{
+    padding-right: 20px;
+      
+   
+}
+.list-group{
+     border-radius:10px;
+     border:transparent;  
+  
+}
+.list-group-item{
+background-color: rgba(255,255,255,0.492);
+padding-top: -15px;
+}
+
+.row-yeah{
+    margin-right: 20px;
+        padding-right: -5px;
+    padding-left: 40px;
+   
+  
+}
+
+.container{
+    background-color: rgba(255,255,255,0.292);
+    backdrop-filter: blur(5px);
+    position: relative;
+    margin-top: 160px;
+}
+#delete{
+  margin-top:-30px;
+}
