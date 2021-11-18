@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ypu3-e#51o)v2di9#&d%p4!z$7o8gl04bs%pn5+xm-n%jr359#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://git.heroku.com/todoapppython.git"]
+ALLOWED_HOSTS = ["https://polar-wildwood-90110.herokuapp.com/"]
 
 
 # Application definition
